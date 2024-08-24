@@ -50,7 +50,9 @@ Open Your Browser
 
 Navigate to http://localhost:8000 to see the application in action.
 **Project Structure**
+
 DjangoChat/
+
 │
 ├── ChitChat/
 │   ├── migrations/
