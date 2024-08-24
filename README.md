@@ -37,10 +37,11 @@ Before you begin, ensure you have the following installed:
    cd your-repo-name
 2. **Install Dependencies**
 
-Create a virtual environment and install the required packages.
 python -m venv env
 source env/bin/activate  # On Windows use `env\Scripts\activate`
-pip install -r requirements.txt
+pip install Django
+python -m pip install -U channels
+python -m pip install -U daphne
 
 
 3.**Set Up the Database**
@@ -49,19 +50,12 @@ Run the migrations to set up your database.
 python manage.py migrate
 
 4.**Run the Development Server**
-
-Start the Django development server.
+**Start the Django development server.**
 python manage.py runserver
+**Open your browser and navigate to http://localhost:8000 to see the application in action**
 
-python manage.py runserver
-Open Your Browser
-
-
-Navigate to http://localhost:8000 to see the application in action.
-**Project Structure**
-
+## Project Structure
 DjangoChat/
-
 │
 ├── ChitChat/
 │   ├── migrations/
