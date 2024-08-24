@@ -32,10 +32,13 @@ Create a virtual environment and install the required packages.
 python -m venv env
 source env/bin/activate  # On Windows use `env\Scripts\activate`
 pip install -r requirements.txt
+
+
 3.**Set Up the Database**
 
 Run the migrations to set up your database.
 python manage.py migrate
+
 4.**Run the Development Server**
 
 Start the Django development server.
@@ -74,6 +77,7 @@ DjangoChat/
 │
 ├── manage.py
 └── requirements.txt
+
 **Screenshots**
 
 
