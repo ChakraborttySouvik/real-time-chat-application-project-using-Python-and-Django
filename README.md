@@ -1,6 +1,6 @@
 # Real-time-chat-application-project-using-Python-and-Django
 Real-time Chat application
-# Real-Time Chat System with Django
+
 
 Welcome to the Real-Time Chat System project! This project demonstrates how to build a real-time chat application using Django and Django Channels.
 
@@ -9,6 +9,15 @@ Welcome to the Real-Time Chat System project! This project demonstrates how to b
 - **Real-Time Messaging**: Send and receive messages instantly using WebSockets.
 - **User Authentication**: Secure login and logout functionality.
 - **Responsive Design**: User-friendly interface for chat and authentication.
+
+ ## Technologies Used
+
+- **Django**: Web framework for Python.
+- **Django Channels**: Extends Django to handle WebSockets.
+- **HTML**: Structure of web pages.
+- **CSS**: Styling of web pages.
+- **JavaScript**: Adding interactivity to web pages.
+
 
 ## Prerequisites
 
