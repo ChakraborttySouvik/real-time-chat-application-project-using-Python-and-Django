@@ -90,15 +90,21 @@ DjangoChat/
 └── requirements.txt
 
 ## Screenshots
+
 ## For File structure: ![File structure](https://github.com/user-attachments/assets/acd16993-cfb4-406f-b7fe-a506ec8bceb8)
+
 ## Create Username and password, you have to create two username for chatting : ![Create username](https://github.com/user-attachments/assets/ea4f5139-b006-4511-87d7-0cf59c518b56)
+
 ## Now Run the server: ![run server](https://github.com/user-attachments/assets/91b478d1-f253-4bd9-b8b1-13c0df9c5564)
+
 ## You have to open two tab one username for normal chorme browser and another username for incognito mode tab: ![Login](https://github.com/user-attachments/assets/b2a7eb4e-4978-4f91-bc54-21745aad577f)
+
 ## Now you can chat from two tabs:
-## 1) ![Souvi](https://github.com/user-attachments/assets/843c0820-23d4-4e8c-9922-0f490fddaeb0)
-## 2) ![Roman](https://github.com/user-attachments/assets/de3838db-6a90-465b-897b-4c887cf2190b)
+**1) ![Souvi](https://github.com/user-attachments/assets/843c0820-23d4-4e8c-9922-0f490fddaeb0)**
+**2) ![Roman](https://github.com/user-attachments/assets/de3838db-6a90-465b-897b-4c887cf2190b)**
 
 ## How It Works:
+
 WebSocket Connection: The chat application uses WebSockets for real-time communication.
 Routing: Messages are routed through Django Channels.
 Templates: HTML templates are used for user interfaces, including login and chat pages.
@@ -106,4 +112,5 @@ Contributing
 Contributions are welcome! Please fork the repository, make your changes, and submit a pull request.
 
 **Contact**
+
 For any questions or feedback, you can reach out to Souvik.Chakrabortty123@gmail.com
