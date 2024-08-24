@@ -89,7 +89,7 @@ DjangoChat/
 ├── manage.py
 └── requirements.txt
 
-**Screenshots**
+## Screenshots
 ## For File structure: ![File structure](https://github.com/user-attachments/assets/acd16993-cfb4-406f-b7fe-a506ec8bceb8)
 ## Create Username and password, you have to create two username for chatting : ![Create username](https://github.com/user-attachments/assets/ea4f5139-b006-4511-87d7-0cf59c518b56)
 ## Now Run the server: ![run server](https://github.com/user-attachments/assets/91b478d1-f253-4bd9-b8b1-13c0df9c5564)
